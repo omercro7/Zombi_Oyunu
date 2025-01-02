@@ -1,0 +1,4 @@
+Dosyaları indirdikten sonra Releases kısmından v1'e tıklıyoruz.
+Releases v1 kısmı açılınca "sharedassets0.assets.resS" dosyasını indiriyoruz.
+"sharedassets0.assets.resS" dosyasını Zombi Baskını_Data klasörüne atıyoruz.
+
